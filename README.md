@@ -12,7 +12,6 @@ This project is a high-performance Order Book implemented in C++. The Order Book
 ## Technologies Used
 - **Language**: C++
 - **Libraries**: Standard Template Library (STL)
-- 
 ## Installation
 To clone and run the project locally, ensure you have `git` and `g++` installed.
 
